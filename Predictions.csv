@@ -1,0 +1,391 @@
+Id,Name,SubEvent,FilePath,Flags,OfInterest,Signature,Predicted_OfInterest,Prediction_Probability
+1,Safari,Downloads,~/Documents/testing123/testing123.xcodeproj/project.xcworkspace/xcuserdata/justinhenschen.xcuserdatad/.dat.nosync4C09.S4Uf33,67840,0,,0,0.01
+2,Safari,Downloads,~/Documents/testing123/testing123.xcodeproj/project.xcworkspace/xcuserdata/justinhenschen.xcuserdatad/UserInterfaceState.xcuserstate,67584,0,62706c6973743030,0,0.01
+3,Safari,Downloads,~/Documents/testing123/testing123.xcodeproj/project.xcworkspace/xcuserdata/justinhenschen.xcuserdatad/UserInterfaceState.xcuserstate,88064,0,62706c6973743030,0,0.1
+4,Safari,Downloads,~/Documents/testing123/.DS_Store,70656,0,0000000142756431,0,0.06
+5,Safari,Downloads,~/Library/Containers/com.apple.iWork.Numbers/Data/Library/SyncedPreferences/com.apple.kvs/ChangeTokens/NoEncryption/Numbers/com.apple.iWork,67584,0,62706c6973743030,0,0.01
+6,Safari,Downloads,/private/var/folders/_g/7_j4dkl16bdg133m_sn11t3c0000gn/T/com.apple.syncdefaultsd/TemporaryItems/NSIRD_syncdefaultsd_UzksPA,131840,0,,0,0.01
+7,Safari,Downloads,~/Library/Containers/com.apple.iWork.Numbers/Data/Library/SyncedPreferences/com.apple.kvs/ChangeTokens/NoEncryption/Numbers/com.apple.iWork,88064,0,62706c6973743030,0,0.1
+8,Safari,Downloads,~/Library/Biome/tmp/.tmp.lpubLOSe,68864,0,,0,0.0
+9,Safari,Downloads,~/Library/Biome/compute/sessions/5AB8C7D1-B690-4AC4-948C-E55ED36AC854/bookmarks/server/com.apple.corespotlightd/com.apple.corespotlightd.BiomeConsumer.SSAppInFocus,71680,0,62706c6973743030,0,0.0
+10,Safari,Downloads,~/Library/Biome/tmp/.tmp.yH6khW2h,68864,0,,0,0.0
+11,Safari,Downloads,~/Library/Biome/compute/sessions/5AB8C7D1-B690-4AC4-948C-E55ED36AC854/bookmarks/server/com.apple.proactived/FocusModes.WorkMode,71680,0,62706c6973743030,0,0.0
+12,Safari,Downloads,~/Library/Biome/tmp/.tmp.zQ8boJA0,68864,0,,0,0.0
+13,Safari,Downloads,~/Library/Biome/compute/sessions/5AB8C7D1-B690-4AC4-948C-E55ED36AC854/bookmarks/server/com.apple.proactived/FocusModes.GamingMode,71680,0,62706c6973743030,0,0.0
+14,Safari,Downloads,~/Library/Biome/tmp/.tmp.iW1imAL1rb,4259840,0,,0,0.0
+15,Safari,Downloads,~/Library/Biome/tmp/.tmp.iW1imAL1rb,4262144,0,,0,0.0
+16,Safari,Downloads,~/Library/Biome/compute/sessions/5AB8C7D1-B690-4AC4-948C-E55ED36AC854/bookmarks/client/com.apple.proactived/FocusModes.WorkMode,67584,0,62706c6973743030,0,0.0
+17,Safari,Downloads,~/Library/Biome/compute/sessions/5AB8C7D1-B690-4AC4-948C-E55ED36AC854/bookmarks/client/com.apple.proactived/FocusModes.WorkMode,67584,0,62706c6973743030,0,0.0
+18,Safari,Downloads,~/Library/Biome/tmp/.tmp.yKHPVYKw,4265728,0,,0,0.0
+19,Safari,Downloads,~/Library/Biome/tmp/.tmp.kxFkQcWy,68864,0,,0,0.0
+20,Safari,Downloads,~/Library/Biome/compute/sessions/5AB8C7D1-B690-4AC4-948C-E55ED36AC854/bookmarks/server/com.apple.proactived/FocusModes.ReadingMode,71680,0,62706c6973743030,0,0.0
+21,Safari,Downloads,~/Library/Biome/tmp/.tmp.tdvIndwFX4,4259840,0,,0,0.0
+22,Safari,Downloads,~/Library/Biome/tmp/.tmp.tdvIndwFX4,4262144,0,,0,0.0
+23,Safari,Downloads,~/Library/Biome/compute/sessions/5AB8C7D1-B690-4AC4-948C-E55ED36AC854/bookmarks/client/com.apple.corespotlightd/com.apple.corespotlightd.BiomeConsumer.SSAppInFocus,67584,0,62706c6973743030,0,0.0
+24,Safari,Downloads,~/Library/Biome/tmp/.tmp.DDGBVVuEPz,4259840,0,,0,0.0
+25,Safari,Downloads,~/Library/Biome/tmp/.tmp.l5QmPKJR,4265728,0,,0,0.0
+26,Safari,Downloads,~/Library/Biome/tmp/.tmp.nnX4Ttgv,68864,0,,0,0.0
+27,Safari,Downloads,~/Library/Biome/compute/sessions/5AB8C7D1-B690-4AC4-948C-E55ED36AC854/bookmarks/server/com.apple.corespotlightd/com.apple.corespotlightd.BiomeConsumer.SSAppInFocus,71680,0,62706c6973743030,0,0.0
+28,Safari,Downloads,~/Library/Biome/tmp/.tmp.DDGBVVuEPz,4262144,0,,0,0.0
+29,Safari,Downloads,~/Library/Biome/compute/sessions/5AB8C7D1-B690-4AC4-948C-E55ED36AC854/bookmarks/client/com.apple.proactived/FocusModes.GamingMode,67584,0,62706c6973743030,0,0.0
+30,Safari,Downloads,~/Library/Biome/compute/sessions/5AB8C7D1-B690-4AC4-948C-E55ED36AC854/bookmarks/client/com.apple.proactived/FocusModes.GamingMode,67584,0,62706c6973743030,0,0.0
+31,Safari,Downloads,~/Library/Biome/tmp/.tmp.bdE62ids,4265728,0,,0,0.0
+32,Safari,Downloads,~/Library/Biome/tmp/.tmp.FUXuZ3Qp,68864,0,,0,0.0
+33,Safari,Downloads,~/Library/Biome/compute/sessions/5AB8C7D1-B690-4AC4-948C-E55ED36AC854/bookmarks/server/com.apple.proactived/FocusModes.WorkMode,71680,0,62706c6973743030,0,0.0
+34,Safari,Downloads,~/Library/Biome/tmp/.tmp.kpurBnBwQt,4259840,0,,0,0.0
+35,Safari,Downloads,~/Library/Biome/tmp/.tmp.kpurBnBwQt,4262144,0,,0,0.0
+36,Safari,Downloads,~/Library/Biome/compute/sessions/5AB8C7D1-B690-4AC4-948C-E55ED36AC854/bookmarks/client/com.apple.proactived/FocusModes.ReadingMode,67584,0,62706c6973743030,0,0.0
+37,Safari,Downloads,~/Library/Biome/compute/sessions/5AB8C7D1-B690-4AC4-948C-E55ED36AC854/bookmarks/client/com.apple.proactived/FocusModes.ReadingMode,67584,0,62706c6973743030,0,0.0
+38,Safari,Downloads,~/Library/Biome/tmp/.tmp.HwmVY9xc,4265728,0,,0,0.0
+39,Safari,Downloads,~/Library/Biome/tmp/.tmp.NncHXDpC,68864,0,,0,0.0
+40,Safari,Downloads,~/Library/Biome/compute/sessions/5AB8C7D1-B690-4AC4-948C-E55ED36AC854/bookmarks/server/com.apple.proactived/FocusModes.GamingMode,71680,0,62706c6973743030,0,0.0
+41,Safari,Downloads,~/Library/Biome/tmp/.tmp.qW8Kcgau,68864,0,,0,0.0
+42,Safari,Downloads,~/Library/Biome/compute/sessions/5AB8C7D1-B690-4AC4-948C-E55ED36AC854/bookmarks/server/com.apple.proactived/FocusModes.ReadingMode,71680,0,62706c6973743030,0,0.0
+43,Safari,Downloads,~/Library/Biome/compute/sessions/5AB8C7D1-B690-4AC4-948C-E55ED36AC854/bookmarks/server/com.apple.proactived/FocusModes.ReadingMode,71680,0,62706c6973743030,0,0.0
+44,Safari,Downloads,~/Library/Saved Application State/justin.testing123.savedState/windows.plist,66048,0,62706c6973743030,0,0.01
+45,Safari,Downloads,~/Library/Saved Application State/justin.testing123.savedState/data.data,66048,0,4e53435231303030,0,0.0
+46,Safari,Downloads,~/Library/Saved Application State/justin.testing123.savedState/data.data,65792,0,4e53435231303030,0,0.01
+47,Safari,Downloads,~/Library/Saved Application State/justin.testing123.savedState/windows.plist,66816,0,62706c6973743030,0,0.01
+48,Safari,Downloads,~/Library/Saved Application State/justin.testing123.savedState/window_1.data,99584,0,5d50b05cf01354b0,0,0.0
+49,Safari,Downloads,/private/var/db/diagnostics/Persist/0000000000000aa3.tracev3,98304,0,0010000011000000,0,0.0
+50,Safari,Downloads,~/Library/Application Support/com.apple.sharedfilelist/.dat.nosync286.bXGyaN,67840,0,,0,0.01
+51,Safari,Downloads,~/Library/Application Support/com.apple.sharedfilelist/com.apple.LSSharedFileList.RecentApplications.sfl3,67584,0,62706c6973743030,0,0.01
+52,Safari,Downloads,~/Library/Application Support/com.apple.sharedfilelist/com.apple.LSSharedFileList.RecentApplications.sfl3,88064,0,62706c6973743030,0,0.06
+53,Safari,Downloads,~/Library/Biome/tmp/.tmp.Zhf28fFq,68864,0,,0,0.0
+54,Safari,Downloads,~/Library/Biome/compute/sessions/5AB8C7D1-B690-4AC4-948C-E55ED36AC854/bookmarks/server/com.apple.corespotlightd/com.apple.corespotlightd.BiomeConsumer.SSAppInFocus,71680,0,62706c6973743030,0,0.0
+55,Safari,Downloads,~/Library/Biome/compute/sessions/5AB8C7D1-B690-4AC4-948C-E55ED36AC854/bookmarks/server/com.apple.corespotlightd/com.apple.corespotlightd.BiomeConsumer.SSAppInFocus,71680,0,62706c6973743030,0,0.0
+56,Safari,Downloads,~/Library/Biome/tmp/.tmp.ADFq8bUN3r,4259840,0,,0,0.0
+57,Safari,Downloads,~/Library/Biome/tmp/.tmp.Ko8QQTzT,68864,0,,0,0.0
+58,Safari,Downloads,~/Library/Biome/compute/sessions/5AB8C7D1-B690-4AC4-948C-E55ED36AC854/bookmarks/server/com.apple.proactived/FocusModes.WorkMode,71680,0,62706c6973743030,0,0.0
+59,Safari,Downloads,~/Library/Biome/tmp/.tmp.ADFq8bUN3r,4262144,0,,0,0.0
+60,Safari,Downloads,~/Library/Biome/compute/sessions/5AB8C7D1-B690-4AC4-948C-E55ED36AC854/bookmarks/client/com.apple.corespotlightd/com.apple.corespotlightd.BiomeConsumer.SSAppInFocus,67584,0,62706c6973743030,0,0.0
+61,Safari,Downloads,~/Library/Biome/compute/sessions/5AB8C7D1-B690-4AC4-948C-E55ED36AC854/bookmarks/client/com.apple.corespotlightd/com.apple.corespotlightd.BiomeConsumer.SSAppInFocus,67584,0,62706c6973743030,0,0.0
+62,Safari,Downloads,~/Library/Biome/compute/sessions/5AB8C7D1-B690-4AC4-948C-E55ED36AC854/bookmarks/server/com.apple.proactived/FocusModes.WorkMode,71680,0,62706c6973743030,0,0.0
+63,Safari,Downloads,~/Library/Biome/tmp/.tmp.8SfMxVhp,4265728,0,,0,0.0
+64,Safari,Downloads,~/Library/Biome/tmp/.tmp.9JXLYWvL,67328,0,,0,0.01
+65,Safari,Downloads,~/Library/Biome/tmp/.tmp.i2C8flBL,68864,0,,0,0.0
+66,Safari,Downloads,~/Library/Biome/compute/sessions/5AB8C7D1-B690-4AC4-948C-E55ED36AC854/bookmarks/server/com.apple.proactived/FocusModes.GamingMode,71680,0,62706c6973743030,0,0.0
+67,Safari,Downloads,~/Library/Biome/compute/sessions/5AB8C7D1-B690-4AC4-948C-E55ED36AC854/bookmarks/server/com.apple.proactived/FocusModes.GamingMode,71680,0,62706c6973743030,0,0.0
+68,Safari,Downloads,~/Library/Biome/tmp/.tmp.EDJo72m1hY,4259840,0,,0,0.0
+69,Safari,Downloads,~/Library/Biome/tmp/.tmp.EDJo72m1hY,4262144,0,,0,0.0
+70,Safari,Downloads,~/Library/Biome/compute/sessions/5AB8C7D1-B690-4AC4-948C-E55ED36AC854/bookmarks/client/com.apple.proactived/FocusModes.WorkMode,67584,0,62706c6973743030,0,0.0
+71,Safari,Downloads,~/Library/Biome/compute/sessions/5AB8C7D1-B690-4AC4-948C-E55ED36AC854/bookmarks/client/com.apple.proactived/FocusModes.WorkMode,67584,0,62706c6973743030,0,0.0
+72,Safari,Downloads,~/Library/Biome/tmp/.tmp.9JXLYWvL,4265728,0,,0,0.0
+73,Safari,Downloads,~/Library/Biome/tmp/.tmp.f872v2b1,68864,0,,0,0.0
+74,Safari,Downloads,~/Library/Biome/compute/sessions/5AB8C7D1-B690-4AC4-948C-E55ED36AC854/bookmarks/server/com.apple.proactived/FocusModes.ReadingMode,71680,0,62706c6973743030,0,0.0
+75,Safari,Downloads,~/Library/Biome/tmp/.tmp.b4QQX5MX9r,4259840,0,,0,0.0
+76,Safari,Downloads,~/Library/Biome/tmp/.tmp.b4QQX5MX9r,4262144,0,,0,0.0
+77,Safari,Downloads,~/Library/Biome/compute/sessions/5AB8C7D1-B690-4AC4-948C-E55ED36AC854/bookmarks/client/com.apple.proactived/FocusModes.GamingMode,67584,0,62706c6973743030,0,0.0
+78,Safari,Downloads,~/Library/Biome/compute/sessions/5AB8C7D1-B690-4AC4-948C-E55ED36AC854/bookmarks/client/com.apple.proactived/FocusModes.GamingMode,67584,0,62706c6973743030,0,0.0
+79,Safari,Downloads,~/Library/Biome/tmp/.tmp.cKKncRCP,4265728,0,,0,0.0
+80,Safari,Downloads,~/Library/Biome/tmp/.tmp.fACblXuf,68864,0,,0,0.0
+81,Safari,Downloads,~/Library/Biome/compute/sessions/5AB8C7D1-B690-4AC4-948C-E55ED36AC854/bookmarks/server/com.apple.corespotlightd/com.apple.corespotlightd.BiomeConsumer.SSAppInFocus,71680,0,62706c6973743030,0,0.0
+82,Safari,Downloads,~/Library/Biome/compute/sessions/5AB8C7D1-B690-4AC4-948C-E55ED36AC854/bookmarks/server/com.apple.corespotlightd/com.apple.corespotlightd.BiomeConsumer.SSAppInFocus,71680,0,62706c6973743030,0,0.0
+83,Safari,Downloads,~/Library/Biome/tmp/.tmp.x0a9YJ7Gx1,4259840,0,,0,0.0
+84,Safari,Downloads,~/Library/Biome/tmp/.tmp.bDc10s3C,68864,0,,0,0.0
+85,Safari,Downloads,~/Library/Biome/compute/sessions/5AB8C7D1-B690-4AC4-948C-E55ED36AC854/bookmarks/server/com.apple.proactived/FocusModes.WorkMode,71680,0,62706c6973743030,0,0.0
+86,Safari,Downloads,~/Library/Biome/tmp/.tmp.x0a9YJ7Gx1,4262144,0,,0,0.0
+87,Safari,Downloads,~/Library/Biome/compute/sessions/5AB8C7D1-B690-4AC4-948C-E55ED36AC854/bookmarks/client/com.apple.proactived/FocusModes.ReadingMode,67584,0,62706c6973743030,0,0.0
+88,Safari,Downloads,~/Library/Biome/compute/sessions/5AB8C7D1-B690-4AC4-948C-E55ED36AC854/bookmarks/client/com.apple.proactived/FocusModes.ReadingMode,67584,0,62706c6973743030,0,0.0
+89,Safari,Downloads,~/Library/Biome/compute/sessions/5AB8C7D1-B690-4AC4-948C-E55ED36AC854/bookmarks/server/com.apple.proactived/FocusModes.WorkMode,71680,0,62706c6973743030,0,0.0
+90,Safari,Downloads,~/Library/Biome/tmp/.tmp.UwYyqdLh,4265728,0,,0,0.0
+91,Safari,Downloads,~/Library/Biome/tmp/.tmp.eyJ40JOw,68864,0,,0,0.0
+92,Safari,Downloads,~/Library/Biome/compute/sessions/5AB8C7D1-B690-4AC4-948C-E55ED36AC854/bookmarks/server/com.apple.proactived/FocusModes.GamingMode,71680,0,62706c6973743030,0,0.0
+93,Safari,Downloads,~/Library/Biome/compute/sessions/5AB8C7D1-B690-4AC4-948C-E55ED36AC854/bookmarks/server/com.apple.proactived/FocusModes.GamingMode,71680,0,62706c6973743030,0,0.0
+94,Safari,Downloads,~/Library/Biome/tmp/.tmp.OhGjrmXf,68864,0,,0,0.0
+95,Safari,Downloads,~/Library/Biome/compute/sessions/5AB8C7D1-B690-4AC4-948C-E55ED36AC854/bookmarks/server/com.apple.proactived/FocusModes.ReadingMode,71680,0,62706c6973743030,0,0.0
+96,Safari,Downloads,~/Library/Biome/compute/sessions/5AB8C7D1-B690-4AC4-948C-E55ED36AC854/bookmarks/server/com.apple.proactived/FocusModes.ReadingMode,71680,0,62706c6973743030,0,0.0
+97,Safari,Downloads,~/Library/Containers/com.apple.iWork.Numbers/Data/tmp/TemporaryItems/NSIRD_Numbers_qrDoMZ,164608,0,,0,0.01
+98,Safari,Downloads,~/Library/Mobile Documents/com~apple~Numbers/Documents/Predictions.numbers,4261888,0,504b030414000000,0,0.01
+99,Safari,Downloads,~/Library/Containers/com.apple.iWork.Numbers/Data/tmp/TemporaryItems/NSIRD_Numbers_UZpwD6,164608,0,,0,0.01
+100,Safari,Downloads,~/Library/Containers/com.apple.iWork.Numbers/Data/Library/Application Support/DocumentSupport/88434853-A0D5-4FC8-BCFC-D69ABEA1A199.lJR9ax/Support.bundle/Index.zip,66048,0,504b030414000000,0,0.0
+101,Safari,Downloads,~/Library/Containers/com.apple.iWork.Numbers/Data/Library/Application Support/DocumentSupport/88434853-A0D5-4FC8-BCFC-D69ABEA1A199.lJR9ax/Support.bundle/Data,131584,0,,0,0.01
+102,Safari,Downloads,~/Library/Containers/com.apple.iWork.Numbers/Data/Library/Application Support/DocumentSupport/88434853-A0D5-4FC8-BCFC-D69ABEA1A199.lJR9ax/Support.bundle/Metadata/DocumentIdentifier,66048,0,3838343334383533,0,0.0
+103,Safari,Downloads,~/Library/Containers/com.apple.iWork.Numbers/Data/Library/Application Support/DocumentSupport/88434853-A0D5-4FC8-BCFC-D69ABEA1A199.lJR9ax/Support.bundle/Metadata/Properties.plist,66048,0,62706c6973743030,0,0.01
+104,Safari,Downloads,~/Library/Containers/com.apple.iWork.Numbers/Data/Library/Application Support/DocumentSupport/88434853-A0D5-4FC8-BCFC-D69ABEA1A199.lJR9ax/Support.bundle/Metadata,131584,0,,0,0.01
+105,Safari,Downloads,~/Library/Containers/com.apple.iWork.Numbers/Data/Library/Application Support/DocumentSupport/88434853-A0D5-4FC8-BCFC-D69ABEA1A199.lJR9ax/Support.bundle,131584,0,,0,0.01
+106,Safari,Downloads,~/Library/Containers/com.apple.iWork.Numbers/Data/Library/Application Support/DocumentSupport/88434853-A0D5-4FC8-BCFC-D69ABEA1A199.lJR9ax/Support.bundle,165888,0,,0,0.01
+107,Safari,Downloads,~/Library/Containers/com.apple.iWork.Numbers/Data/tmp/TemporaryItems/NSIRD_Numbers_UfHwCM,164608,0,,0,0.01
+108,Safari,Downloads,~/Library/Mobile Documents/com~apple~Numbers/Documents/Predictions.numbers,100352,0,504b030414000000,0,0.01
+109,Safari,Downloads,~/Library/Application Support/CloudDocs/session/db/client.db-wal,66560,0,377f0682002de218,0,0.29
+110,Safari,Downloads,~/Library/Application Support/CloudDocs/session/db/client.db,66560,0,53514c6974652066,0,0.32
+111,Safari,Downloads,~/Library/Application Support/FileProvider/8B79D36C-30BC-485D-98E2-5FE82DE706EE/database/db-wal,66560,0,377f0682002de218,0,0.29
+112,Safari,Downloads,~/Library/Saved Application State/justin.testing123.savedState/restorecount.plist,71424,0,,0,0.01
+113,Safari,Downloads,~/Library/Mobile Documents/com~apple~Numbers/Documents/Predictions.numbers,4292608,0,504b030414000000,0,0.01
+114,Safari,Downloads,~/Library/Application Support/FileProvider/8B79D36C-30BC-485D-98E2-5FE82DE706EE/wharf/wharf/ingest/5294817,4259840,0,,0,0.0
+115,Safari,Downloads,~/Library/Application Support/FileProvider/8B79D36C-30BC-485D-98E2-5FE82DE706EE/wharf/wharf/ingest/5294817,4262144,0,,0,0.0
+116,Safari,Downloads,~/Library/Application Support/FileProvider/8B79D36C-30BC-485D-98E2-5FE82DE706EE/database/db,66560,0,53514c6974652066,0,0.32
+117,Safari,Downloads,~/Library/Preferences/com.tristan.FSMonitor.plist,98304,0,62706c6973743030,0,0.04
+118,Safari,Downloads,~/Library/Preferences/ContextStoreAgent.plist,98304,0,62706c6973743030,0,0.01
+119,Safari,Downloads,~/Library/Application Support/FileProvider/8B79D36C-30BC-485D-98E2-5FE82DE706EE/wharf/wharf/ingest/5294836,98304,0,504b030414000000,0,0.03
+120,Safari,Downloads,~/Library/Application Support/FileProvider/8B79D36C-30BC-485D-98E2-5FE82DE706EE/wharf/wharf/ingest/5294836,4311040,0,504b030414000000,0,0.01
+121,Safari,Downloads,~/Library/Application Support/FileProvider/8B79D36C-30BC-485D-98E2-5FE82DE706EE/wharf/wharf/propagate/doc,4259840,0,,0,0.0
+122,Safari,Downloads,~/Library/Application Support/FileProvider/8B79D36C-30BC-485D-98E2-5FE82DE706EE/wharf/wharf/propagate/doc,4262144,0,,0,0.0
+123,Safari,Downloads,~/Library/Application Support/FileProvider/8B79D36C-30BC-485D-98E2-5FE82DE706EE/wharf/wharf/propagate/5294837,108544,0,,0,0.01
+124,Safari,Downloads,~/Library/Application Support/CloudDocs/session/i/fb0.numbers,67584,0,504b030414000000,0,0.01
+125,Safari,Downloads,~/Library/Application Support/FileProvider/8B79D36C-30BC-485D-98E2-5FE82DE706EE/wharf/wharf/propagate/5294837,67584,0,,0,0.01
+126,Safari,Downloads,~/Library/Application Support/CloudDocs/session/i/fb0.numbers,67584,0,504b030414000000,0,0.01
+127,Safari,Downloads,~/Library/Caches/com.apple.bird/unlink/2A237C57-FD54-4EC7-8B42-0B3A5F841682,69120,0,,0,0.01
+128,Safari,Downloads,~/Library/Application Support/CloudDocs/session/t/upload-176-84DD2BA3-86BA-477E-B8FF-83DAA0088D00,67584,0,ffd8ffe000104a46,0,0.01
+129,Safari,Downloads,/private/var/folders/_g/7_j4dkl16bdg133m_sn11t3c0000gn/T/com.apple.quicklook.ThumbnailsAgent/TemporaryItems/NSIRD_com.apple.quicklook.ThumbnailsAgent_y7TqWf,131840,0,,0,0.01
+130,Safari,Downloads,/private/var/folders/_g/7_j4dkl16bdg133m_sn11t3c0000gn/T/com.apple.quicklook.ThumbnailsAgent/TemporaryItems/NSIRD_com.apple.quicklook.ThumbnailsAgent_GEa1SD,131840,0,,0,0.01
+131,Safari,Downloads,~/Library/DuetExpertCenter/_ATXAppDailyDose_CurrentDose,66560,0,7b2276657273696f,0,0.01
+132,Safari,Downloads,~/Library/DuetExpertCenter/Bookmarks/poiCategoryPublisherBookmarkURL,67584,0,62706c6973743030,0,0.0
+133,Safari,Downloads,/private/var/folders/_g/7_j4dkl16bdg133m_sn11t3c0000gn/T/duetexpertd/TemporaryItems/NSIRD_duetexpertd_IThTxK,131840,0,,0,0.01
+134,Safari,Downloads,~/Library/DuetExpertCenter/Bookmarks/poiCategoryPublisherBookmarkURL,88064,0,62706c6973743030,0,0.0
+135,Safari,Downloads,~/Library/Application Support/CloudDocs/session/db/client.db,66560,0,53514c6974652066,0,0.32
+136,Safari,Downloads,~/Library/Application Support/FileProvider/8B79D36C-30BC-485D-98E2-5FE82DE706EE/wharf/wharf/ingest/5294836,4311040,0,,0,0.01
+137,Safari,Downloads,~/Library/Application Support/FileProvider/8B79D36C-30BC-485D-98E2-5FE82DE706EE/wharf/wharf/delete/82B4CD74-091B-4CB4-BD14-9B7D2F045C73,68096,0,,0,0.01
+138,Safari,Downloads,~/Library/Mobile Documents/com~apple~Numbers/Documents/Predictions.numbers,4292608,0,504b030414000000,0,0.01
+139,Safari,Downloads,~/Library/Application Support/FileProvider/8B79D36C-30BC-485D-98E2-5FE82DE706EE/database/db-wal,66560,0,377f0682002de218,0,0.29
+140,Safari,Downloads,/private/var/folders/_g/7_j4dkl16bdg133m_sn11t3c0000gn/T/TemporaryItems/com.apple.spaces.plist.y6gs18S,88320,0,,0,0.0
+141,Safari,Downloads,~/Library/Preferences/com.apple.spaces.plist,67584,0,62706c6973743030,0,0.0
+142,Safari,Downloads,~/Library/Preferences/com.apple.spaces.plist,67584,0,62706c6973743030,0,0.0
+143,Safari,Downloads,/private/var/folders/_g/7_j4dkl16bdg133m_sn11t3c0000gn/T/TemporaryItems/com.apple.HIToolbox.plist.LhjhuXe,88320,0,,0,0.0
+144,Safari,Downloads,~/Library/Preferences/com.apple.HIToolbox.plist,67584,0,62706c6973743030,0,0.0
+145,Safari,Downloads,~/Library/Preferences/com.apple.HIToolbox.plist,67584,0,62706c6973743030,0,0.0
+146,Safari,Downloads,/private/var/folders/_g/7_j4dkl16bdg133m_sn11t3c0000gn/T/TemporaryItems/ContextStoreAgent.plist.1G5hUIL,88320,0,,0,0.0
+147,Safari,Downloads,~/Library/Preferences/ContextStoreAgent.plist,67584,0,62706c6973743030,0,0.0
+148,Safari,Downloads,~/Library/Preferences/ContextStoreAgent.plist,67584,0,62706c6973743030,0,0.0
+149,Safari,Downloads,/private/var/folders/_g/7_j4dkl16bdg133m_sn11t3c0000gn/T/TemporaryItems/com.apple.loginwindow.2FCAD049-CFBC-5469-9DD4-2DD7DA389027.plist.cZGfUkj,88320,0,,0,0.0
+150,Safari,Downloads,~/Library/Preferences/ByHost/com.apple.loginwindow.2FCAD049-CFBC-5469-9DD4-2DD7DA389027.plist,67584,0,62706c6973743030,0,0.0
+151,Safari,Downloads,~/Library/Preferences/ByHost/com.apple.loginwindow.2FCAD049-CFBC-5469-9DD4-2DD7DA389027.plist,67584,0,62706c6973743030,0,0.0
+152,Safari,Downloads,/private/var/folders/_g/7_j4dkl16bdg133m_sn11t3c0000gn/T/TemporaryItems/justin.testing123.plist.KddoxZt,88320,0,,0,0.0
+153,Safari,Downloads,~/Library/Preferences/justin.testing123.plist,67584,0,62706c6973743030,0,0.01
+154,Safari,Downloads,~/Library/Preferences/justin.testing123.plist,67584,0,62706c6973743030,0,0.01
+155,Safari,Downloads,~/Library/Application Support/FileProvider/8B79D36C-30BC-485D-98E2-5FE82DE706EE/database/db,66560,0,53514c6974652066,0,0.32
+156,Safari,Downloads,~/Library/Biome/tmp/.tmp.xBG7GAPt,68864,0,,0,0.0
+157,Safari,Downloads,~/Library/Biome/compute/sessions/5AB8C7D1-B690-4AC4-948C-E55ED36AC854/bookmarks/server/com.apple.corespotlightd/com.apple.corespotlightd.BiomeConsumer.SSAppInFocus,71680,0,62706c6973743030,0,0.0
+158,Safari,Downloads,~/Library/Biome/tmp/.tmp.NigLTtRr,68864,0,,0,0.0
+159,Safari,Downloads,~/Library/Biome/compute/sessions/5AB8C7D1-B690-4AC4-948C-E55ED36AC854/bookmarks/server/com.apple.proactived/FocusModes.WorkMode,71680,0,62706c6973743030,0,0.0
+160,Safari,Downloads,~/Library/Biome/tmp/.tmp.LEfcGWSf,68864,0,,0,0.0
+161,Safari,Downloads,~/Library/Biome/compute/sessions/5AB8C7D1-B690-4AC4-948C-E55ED36AC854/bookmarks/server/com.apple.proactived/FocusModes.GamingMode,71680,0,62706c6973743030,0,0.0
+162,Safari,Downloads,~/Library/Biome/tmp/.tmp.aujtAloFhx,4259840,0,,0,0.0
+163,Safari,Downloads,~/Library/Biome/tmp/.tmp.aujtAloFhx,4262144,0,,0,0.0
+164,Safari,Downloads,~/Library/Biome/compute/sessions/5AB8C7D1-B690-4AC4-948C-E55ED36AC854/bookmarks/client/com.apple.proactived/FocusModes.WorkMode,67584,0,62706c6973743030,0,0.0
+165,Safari,Downloads,~/Library/Biome/compute/sessions/5AB8C7D1-B690-4AC4-948C-E55ED36AC854/bookmarks/client/com.apple.proactived/FocusModes.WorkMode,67584,0,62706c6973743030,0,0.0
+166,Safari,Downloads,~/Library/Biome/tmp/.tmp.rk9lDmjo,4265728,0,,0,0.0
+167,Safari,Downloads,~/Library/Biome/tmp/.tmp.tx3u7ggP,68864,0,,0,0.0
+168,Safari,Downloads,~/Library/Biome/compute/sessions/5AB8C7D1-B690-4AC4-948C-E55ED36AC854/bookmarks/server/com.apple.proactived/FocusModes.ReadingMode,71680,0,62706c6973743030,0,0.0
+169,Safari,Downloads,~/Library/Biome/tmp/.tmp.lneJUOUnnJ,4259840,0,,0,0.0
+170,Safari,Downloads,~/Library/Biome/tmp/.tmp.lneJUOUnnJ,4262144,0,,0,0.0
+171,Safari,Downloads,~/Library/Biome/compute/sessions/5AB8C7D1-B690-4AC4-948C-E55ED36AC854/bookmarks/client/com.apple.proactived/FocusModes.GamingMode,67584,0,62706c6973743030,0,0.0
+172,Safari,Downloads,~/Library/Biome/compute/sessions/5AB8C7D1-B690-4AC4-948C-E55ED36AC854/bookmarks/client/com.apple.proactived/FocusModes.GamingMode,67584,0,62706c6973743030,0,0.0
+173,Safari,Downloads,~/Library/Biome/tmp/.tmp.6T7lK5Ih,4265728,0,,0,0.0
+174,Safari,Downloads,~/Library/Biome/tmp/.tmp.kziBxu8l,68864,0,,0,0.0
+175,Safari,Downloads,~/Library/Biome/compute/sessions/5AB8C7D1-B690-4AC4-948C-E55ED36AC854/bookmarks/server/com.apple.corespotlightd/com.apple.corespotlightd.BiomeConsumer.SSAppInFocus,71680,0,62706c6973743030,0,0.0
+176,Safari,Downloads,~/Library/Biome/compute/sessions/5AB8C7D1-B690-4AC4-948C-E55ED36AC854/bookmarks/server/com.apple.corespotlightd/com.apple.corespotlightd.BiomeConsumer.SSAppInFocus,71680,0,62706c6973743030,0,0.0
+177,Safari,Downloads,~/Library/Biome/tmp/.tmp.QeWkRrN7Cl,4259840,0,,0,0.0
+178,Safari,Downloads,~/Library/Biome/tmp/.tmp.QeWkRrN7Cl,4262144,0,,0,0.0
+179,Safari,Downloads,~/Library/Biome/compute/sessions/5AB8C7D1-B690-4AC4-948C-E55ED36AC854/bookmarks/client/com.apple.corespotlightd/com.apple.corespotlightd.BiomeConsumer.SSAppInFocus,67584,0,62706c6973743030,0,0.0
+180,Safari,Downloads,~/Library/Biome/compute/sessions/5AB8C7D1-B690-4AC4-948C-E55ED36AC854/bookmarks/client/com.apple.corespotlightd/com.apple.corespotlightd.BiomeConsumer.SSAppInFocus,67584,0,62706c6973743030,0,0.0
+181,Safari,Downloads,~/Library/Biome/tmp/.tmp.jPMHU2brKa,4259840,0,,0,0.0
+182,Safari,Downloads,~/Library/Biome/tmp/.tmp.xgVsoN5c,4265728,0,,0,0.0
+183,Safari,Downloads,~/Library/Biome/tmp/.tmp.jPMHU2brKa,4262144,0,,0,0.0
+184,Safari,Downloads,~/Library/Biome/compute/sessions/5AB8C7D1-B690-4AC4-948C-E55ED36AC854/bookmarks/client/com.apple.proactived/FocusModes.ReadingMode,67584,0,62706c6973743030,0,0.0
+185,Safari,Downloads,~/Library/Biome/compute/sessions/5AB8C7D1-B690-4AC4-948C-E55ED36AC854/bookmarks/client/com.apple.proactived/FocusModes.ReadingMode,67584,0,62706c6973743030,0,0.0
+186,Safari,Downloads,~/Library/Biome/tmp/.tmp.FFg0jnMo,68864,0,,0,0.0
+187,Safari,Downloads,~/Library/Biome/compute/sessions/5AB8C7D1-B690-4AC4-948C-E55ED36AC854/bookmarks/server/com.apple.proactived/FocusModes.WorkMode,71680,0,62706c6973743030,0,0.0
+188,Safari,Downloads,~/Library/Biome/compute/sessions/5AB8C7D1-B690-4AC4-948C-E55ED36AC854/bookmarks/server/com.apple.proactived/FocusModes.WorkMode,71680,0,62706c6973743030,0,0.0
+189,Safari,Downloads,~/Library/Biome/tmp/.tmp.a4HA1qB1,4265728,0,,0,0.0
+190,Safari,Downloads,~/Library/Biome/tmp/.tmp.cgqoZHdD,68864,0,,0,0.0
+191,Safari,Downloads,~/Library/Biome/compute/sessions/5AB8C7D1-B690-4AC4-948C-E55ED36AC854/bookmarks/server/com.apple.proactived/FocusModes.GamingMode,71680,0,62706c6973743030,0,0.0
+192,Safari,Downloads,~/Library/Biome/compute/sessions/5AB8C7D1-B690-4AC4-948C-E55ED36AC854/bookmarks/server/com.apple.proactived/FocusModes.GamingMode,71680,0,62706c6973743030,0,0.0
+193,Safari,Downloads,~/Library/Biome/tmp/.tmp.18lsk0XK,68864,0,,0,0.0
+194,Safari,Downloads,~/Library/Biome/compute/sessions/5AB8C7D1-B690-4AC4-948C-E55ED36AC854/bookmarks/server/com.apple.proactived/FocusModes.ReadingMode,71680,0,62706c6973743030,0,0.0
+195,Safari,Downloads,~/Library/Biome/compute/sessions/5AB8C7D1-B690-4AC4-948C-E55ED36AC854/bookmarks/server/com.apple.proactived/FocusModes.ReadingMode,71680,0,62706c6973743030,0,0.0
+196,Safari,Downloads,~/Library/Application Support/FileProvider/8B79D36C-30BC-485D-98E2-5FE82DE706EE/database/db-wal,66560,0,377f0682002de218,0,0.29
+197,Safari,Downloads,~/Library/Application Support/FileProvider/8B79D36C-30BC-485D-98E2-5FE82DE706EE/database/db,66560,0,53514c6974652066,0,0.32
+198,Safari,Downloads,~/Library/Application Support/JetBrains/PyCharmCE2024.3/options/actionSummary.xml,70656,0,3c6170706c696361,0,0.06
+199,Safari,Downloads,~/Library/Application Support/JetBrains/PyCharmCE2024.3/options/actionSummary.xml~,120576,0,,0,0.01
+200,Safari,Downloads,~/Library/Application Support/JetBrains/PyCharmCE2024.3/options/completion.factors.user.xml,70656,0,3c6170706c696361,0,0.06
+201,Safari,Downloads,~/Library/Application Support/JetBrains/PyCharmCE2024.3/options/completion.factors.user.xml~,120576,0,,0,0.01
+202,Safari,Downloads,~/Library/Application Support/JetBrains/PyCharmCE2024.3/options/features.usage.statistics.xml,70656,0,3c6170706c696361,0,0.06
+203,Safari,Downloads,~/Library/Application Support/JetBrains/PyCharmCE2024.3/options/features.usage.statistics.xml~,120576,0,,0,0.01
+204,Safari,Downloads,~/Library/Application Support/JetBrains/PyCharmCE2024.3/options/recentProjects.xml,70656,0,3c6170706c696361,0,0.06
+205,Safari,Downloads,~/Library/Application Support/JetBrains/PyCharmCE2024.3/options/recentProjects.xml~,120576,0,,0,0.01
+206,Safari,Downloads,~/PycharmProjects/PythonProject/.idea/workspace.xml,70656,0,3c3f786d6c207665,0,0.06
+207,Safari,Downloads,~/PycharmProjects/PythonProject/.idea/workspace.xml~,120576,0,,0,0.01
+208,Safari,Downloads,~/Library/Application Support/JetBrains/PyCharmCE2024.3/workspace/2v6K6DvF87XuHhm1kSra4YXjY76.xml,70656,0,3c70726f6a656374,0,0.06
+209,Safari,Downloads,~/Library/Application Support/JetBrains/PyCharmCE2024.3/workspace/2v6K6DvF87XuHhm1kSra4YXjY76.xml~,120576,0,,0,0.01
+210,Safari,Downloads,~/Library/Caches/JetBrains/PyCharmCE2024.3/projects/pythonproject.a01f209e/cache-state.xml,70656,0,3c70726f6a656374,0,0.06
+211,Safari,Downloads,~/Library/Caches/JetBrains/PyCharmCE2024.3/projects/pythonproject.a01f209e/cache-state.xml~,120576,0,,0,0.01
+212,Safari,Downloads,~/Library/Caches/JetBrains/PyCharmCE2024.3/LocalHistory/changes.storageData,69632,0,1f2f3f4f00000000,0,0.08
+213,Safari,Downloads,~/Library/Caches/JetBrains/PyCharmCE2024.3/LocalHistory/changes.storageRecordIndex,69632,0,1f2f3f5800000007,0,0.08
+214,Safari,Downloads,/private/var/db/diagnostics/Persist/0000000000000aa3.tracev3,98304,0,0010000011000000,0,0.0
+215,Safari,Downloads,~/Library/Containers/com.apple.Safari/Data/Library/Caches/com.apple.Safari/TabSnapshots/1D7DE69D-398A-4617-A875-F71B379BC0EC.png.sb-264a010b-mOLF9e,104704,0,,0,0.01
+216,Safari,Downloads,~/Library/Containers/com.apple.Safari/Data/Library/Caches/com.apple.Safari/TabSnapshots/1D7DE69D-398A-4617-A875-F71B379BC0EC.png,67584,0,89504e470d0a1a0a,0,0.0
+217,Safari,Downloads,~/Library/Containers/com.apple.Safari/Data/Library/Caches/com.apple.Safari/TabSnapshots/1D7DE69D-398A-4617-A875-F71B379BC0EC.png,67584,0,89504e470d0a1a0a,0,0.0
+218,Safari,Downloads,~/Library/DuetExpertCenter/ATXLocationManagerState-unrestricted,66560,0,2b89c70b01000000,0,0.0
+219,Safari,Downloads,~/Library/DuetExpertCenter/_ATXAppDailyDose_CurrentDose,66560,0,7b2276657273696f,0,0.01
+220,Safari,Downloads,~/Library/DuetExpertCenter/Bookmarks/poiCategoryPublisherBookmarkURL,88064,0,62706c6973743030,0,0.0
+221,Safari,Downloads,/private/var/folders/_g/7_j4dkl16bdg133m_sn11t3c0000gn/T/duetexpertd/TemporaryItems/NSIRD_duetexpertd_EIOeai,131840,0,,0,0.01
+222,Safari,Downloads,~/Library/DuetExpertCenter/Bookmarks/poiCategoryPublisherBookmarkURL,88064,0,62706c6973743030,0,0.0
+223,Safari,Downloads,~/Library/Containers/com.apple.Safari/Data/Library/Caches/com.apple.Safari/TabSnapshots/C1A20648-8D72-4B04-8EBA-FE18BF23A963.png.sb-264a010b-anpPnW,104704,0,,0,0.01
+224,Safari,Downloads,~/Library/Containers/com.apple.Safari/Data/Library/Caches/com.apple.Safari/TabSnapshots/C1A20648-8D72-4B04-8EBA-FE18BF23A963.png,67584,0,89504e470d0a1a0a,0,0.0
+225,Safari,Downloads,~/Library/Containers/com.apple.Safari/Data/Library/Caches/com.apple.Safari/TabSnapshots/C1A20648-8D72-4B04-8EBA-FE18BF23A963.png,67584,0,89504e470d0a1a0a,0,0.0
+226,Safari,Downloads,~/Library/Containers/com.apple.Safari/Data/Library/WebKit/WebsiteDataStore/af43559d-6afb-4875-b21c-cea16effee2c/HSTS/HSTS.plist,70656,0,62706c6973743030,0,0.0
+227,Safari,Downloads,~/Library/DuetExpertCenter/_ATXAppDailyDose_CurrentDose,66560,0,7b2276657273696f,0,0.01
+228,Safari,Downloads,~/Library/DuetExpertCenter/Bookmarks/poiCategoryPublisherBookmarkURL,88064,0,62706c6973743030,0,0.0
+229,Safari,Downloads,/private/var/folders/_g/7_j4dkl16bdg133m_sn11t3c0000gn/T/duetexpertd/TemporaryItems/NSIRD_duetexpertd_w2cdcd,131840,0,,0,0.01
+230,Safari,Downloads,~/Library/DuetExpertCenter/Bookmarks/poiCategoryPublisherBookmarkURL,88064,0,62706c6973743030,0,0.0
+231,Safari,Downloads,~/Library/Biome/streams/restricted/App.WebUsage/local/766457029124481,69632,0,534547421b000000,0,0.08
+232,Safari,Downloads,~/Library/Containers/com.apple.Safari/Data/Library/Caches/com.apple.Safari/TabSnapshots/817E24A4-9EA1-45E9-9698-67948544C239.png.sb-264a010b-HhjJ1H,104704,0,,0,0.01
+233,Safari,Downloads,~/Library/Containers/com.apple.Safari/Data/Library/Caches/com.apple.Safari/TabSnapshots/817E24A4-9EA1-45E9-9698-67948544C239.png,67584,0,89504e470d0a1a0a,0,0.0
+234,Safari,Downloads,~/Library/Containers/com.apple.Safari/Data/Library/Caches/com.apple.Safari/TabSnapshots/817E24A4-9EA1-45E9-9698-67948544C239.png,67584,0,89504e470d0a1a0a,0,0.0
+235,Safari,Downloads,~/Library/Containers/com.apple.Safari/Data/Library/Safari/SafariTabs.db-wal,69632,0,377f0682002de218,1,0.83
+236,Safari,Downloads,/private/var/folders/_g/7_j4dkl16bdg133m_sn11t3c0000gn/C/mds/mdsObject.db,66048,0,6b79636800010000,0,0.0
+237,Safari,Downloads,/private/var/folders/_g/7_j4dkl16bdg133m_sn11t3c0000gn/C/mds/mdsObject.db_,88320,0,,0,0.0
+238,Safari,Downloads,/private/var/folders/_g/7_j4dkl16bdg133m_sn11t3c0000gn/C/mds/mdsObject.db,67584,0,6b79636800010000,0,0.01
+239,Safari,Downloads,/private/var/folders/_g/7_j4dkl16bdg133m_sn11t3c0000gn/C/mds/mdsDirectory.db_,88320,0,,0,0.0
+240,Safari,Downloads,/private/var/folders/_g/7_j4dkl16bdg133m_sn11t3c0000gn/C/mds/mdsDirectory.db,67584,0,6b79636800010000,0,0.01
+241,Safari,Downloads,/private/var/folders/_g/7_j4dkl16bdg133m_sn11t3c0000gn/C/mds/mdsDirectory.db,67584,0,6b79636800010000,0,0.01
+242,Safari,Downloads,~/Library/Containers/com.apple.Safari/Data/Library/WebKit/WebsiteDataStore/af43559d-6afb-4875-b21c-cea16effee2c/Cookies/Cookies.binarycookies_tmp_876.dat,104704,0,,0,0.01
+243,Safari,Downloads,~/Library/Containers/com.apple.Safari/Data/Library/WebKit/WebsiteDataStore/af43559d-6afb-4875-b21c-cea16effee2c/Cookies/Cookies.binarycookies,67584,0,636f6f6b0000006e,0,0.01
+244,Safari,Downloads,~/Library/Containers/com.apple.Safari/Data/Library/WebKit/WebsiteDataStore/af43559d-6afb-4875-b21c-cea16effee2c/Cookies/Cookies.binarycookies,67584,0,636f6f6b0000006e,0,0.01
+245,Safari,Downloads,/private/var/db/diagnostics/Persist/0000000000000aa3.tracev3,98304,0,0010000011000000,0,0.0
+246,Safari,Downloads,/private/var/db/diagnostics/Special/00000000000009b9.tracev3,98304,0,0010000011000000,0,0.0
+247,Safari,Downloads,~/Library/Containers/com.apple.Safari/Data/Library/WebKit/WebsiteDataStore/af43559d-6afb-4875-b21c-cea16effee2c/HSTS/HSTS.plist,70656,0,62706c6973743030,0,0.0
+248,Safari,Downloads,/private/var/folders/_g/7_j4dkl16bdg133m_sn11t3c0000gn/T/TemporaryItems/com.apple.Safari.plist.NRz6mJh,88320,0,,0,0.0
+249,Safari,Downloads,~/Library/Containers/com.apple.Safari/Data/Library/Preferences/com.apple.Safari.plist,67584,0,62706c6973743030,0,0.0
+250,Safari,Downloads,~/Library/Containers/com.apple.Safari/Data/Library/Preferences/com.apple.Safari.plist,67584,0,62706c6973743030,0,0.0
+251,Safari,Downloads,~/Library/DuetExpertCenter/_ATXAppDailyDose_CurrentDose,66560,0,7b2276657273696f,0,0.01
+252,Safari,Downloads,~/Library/DuetExpertCenter/Bookmarks/poiCategoryPublisherBookmarkURL,88064,0,62706c6973743030,0,0.0
+253,Safari,Downloads,/private/var/folders/_g/7_j4dkl16bdg133m_sn11t3c0000gn/T/duetexpertd/TemporaryItems/NSIRD_duetexpertd_EAYgZ3,131840,0,,0,0.01
+254,Safari,Downloads,~/Library/DuetExpertCenter/Bookmarks/poiCategoryPublisherBookmarkURL,88064,0,62706c6973743030,0,0.0
+255,Safari,Downloads,/private/var/folders/_g/7_j4dkl16bdg133m_sn11t3c0000gn/T/TemporaryItems/NSIRD_com.apple.Safari.SandboxBroker_6DZnz8,131840,0,,0,0.01
+256,Safari,Downloads,~/Library/Containers/com.apple.Safari/Data/Library/Caches/com.apple.Safari/TabSnapshots/E6FF1D5A-AB24-4DA8-8ED9-10D967E2D3F6.png.sb-264a010b-3P4wO2,104704,0,,0,0.01
+257,Safari,Downloads,~/Library/Containers/com.apple.Safari/Data/Library/Caches/com.apple.Safari/TabSnapshots/E6FF1D5A-AB24-4DA8-8ED9-10D967E2D3F6.png,67584,0,89504e470d0a1a0a,0,0.0
+258,Safari,Downloads,~/Library/Containers/com.apple.Safari/Data/Library/Caches/com.apple.Safari/TabSnapshots/E6FF1D5A-AB24-4DA8-8ED9-10D967E2D3F6.png,67584,0,89504e470d0a1a0a,0,0.0
+259,Safari,Downloads,~/Library/Preferences/com.apple.LaunchServices.QuarantineEventsV2-journal,103168,0,,0,0.01
+260,Safari,Downloads,~/Library/Preferences/com.apple.LaunchServices.QuarantineEventsV2,69632,0,53514c6974652066,0,0.17
+261,Safari,Downloads,~/Downloads/CYFI725_S2025_Final-4.pdf,66048,0,255044462d312e35,0,0.0
+262,Safari,Downloads,~/Downloads/CYFI725_S2025_Final-4.pdf,67584,0,255044462d312e35,0,0.01
+263,Safari,Downloads,~/Downloads/CYFI725_S2025_Final-4.pdf.download,165632,0,,0,0.01
+264,Safari,Downloads,~/Library/Group Containers/group.com.apple.Safari.SandboxBroker/Library/SafariSandboxBroker/DownloadMetadata.plist,72192,0,,0,0.01
+265,Safari,Downloads,/private/var/folders/_g/7_j4dkl16bdg133m_sn11t3c0000gn/T/com.apple.quicklook.ThumbnailsAgent/TemporaryItems/NSIRD_com.apple.quicklook.ThumbnailsAgent_0VAu16,131840,0,,0,0.01
+266,Safari,Downloads,~/Library/Containers/com.apple.Safari/Data/Library/Caches/com.apple.Safari/TabSnapshots/E6FF1D5A-AB24-4DA8-8ED9-10D967E2D3F6.png.sb-264a010b-J3JXHQ,104704,0,,0,0.01
+267,Safari,Downloads,~/Library/Containers/com.apple.Safari/Data/Library/Caches/com.apple.Safari/TabSnapshots/E6FF1D5A-AB24-4DA8-8ED9-10D967E2D3F6.png,67584,0,89504e470d0a1a0a,0,0.0
+268,Safari,Downloads,~/Library/Containers/com.apple.Safari/Data/Library/Caches/com.apple.Safari/TabSnapshots/E6FF1D5A-AB24-4DA8-8ED9-10D967E2D3F6.png,67584,0,89504e470d0a1a0a,0,0.0
+269,Safari,Downloads,/private/var/folders/_g/7_j4dkl16bdg133m_sn11t3c0000gn/T/com.apple.quicklook.ThumbnailsAgent/TemporaryItems/NSIRD_com.apple.quicklook.ThumbnailsAgent_RU5vJf,131840,0,,0,0.01
+270,Safari,Downloads,~/Library/Containers/com.apple.Safari/Data/Library/Safari/SafariTabs.db-wal,69632,0,377f0682002de218,1,0.83
+271,Safari,Downloads,~/Library/Preferences/com.apple.spaces.plist,98304,0,62706c6973743030,0,0.06
+272,Safari,Downloads,~/Library/Preferences/com.apple.HIToolbox.plist,98304,0,62706c6973743030,0,0.02
+273,Safari,Downloads,~/Library/Preferences/ContextStoreAgent.plist,98304,0,62706c6973743030,0,0.01
+274,Safari,Downloads,~/Library/Preferences/ByHost/com.apple.loginwindow.2FCAD049-CFBC-5469-9DD4-2DD7DA389027.plist,98304,0,62706c6973743030,0,0.06
+275,Safari,Downloads,~/Library/Preferences/justin.testing123.plist,98304,0,62706c6973743030,0,0.06
+276,Safari,Downloads,~/Library/Containers/com.apple.Safari/Data/Library/Preferences/com.apple.Safari.plist,98304,0,62706c6973743030,0,0.04
+277,Safari,Downloads,~/Downloads/CYFI725_S2025_Final-4.pdf,98304,0,255044462d312e35,0,0.03
+278,Safari,Downloads,/private/var/folders/_g/7_j4dkl16bdg133m_sn11t3c0000gn/T/TemporaryItems/com.apple.Safari.plist.qu5jd6S,88320,0,,0,0.0
+279,Safari,Downloads,~/Library/Containers/com.apple.Safari/Data/Library/Preferences/com.apple.Safari.plist,67584,0,62706c6973743030,0,0.0
+280,Safari,Downloads,~/Library/Containers/com.apple.Safari/Data/Library/Preferences/com.apple.Safari.plist,67584,0,62706c6973743030,0,0.0
+281,Safari,Downloads,/private/var/db/diagnostics/Persist/0000000000000aa3.tracev3,98304,0,0010000011000000,0,0.0
+282,Safari,Downloads,~/Library/Containers/com.apple.Safari/Data/Library/WebKit/WebsiteDataStore/af43559d-6afb-4875-b21c-cea16effee2c/HSTS/HSTS.plist,70656,0,62706c6973743030,0,0.0
+283,Safari,Downloads,/private/var/folders/_g/7_j4dkl16bdg133m_sn11t3c0000gn/T/TemporaryItems/ContextStoreAgent.plist.TC8AOo0,88320,0,,0,0.0
+284,Safari,Downloads,~/Library/Preferences/ContextStoreAgent.plist,67584,0,62706c6973743030,0,0.0
+285,Safari,Downloads,~/Library/Preferences/ContextStoreAgent.plist,67584,0,62706c6973743030,0,0.0
+286,Safari,Downloads,/private/var/folders/_g/7_j4dkl16bdg133m_sn11t3c0000gn/T/TemporaryItems/com.apple.knowledge-agent.plist.ebxE7HU,88320,0,,0,0.0
+287,Safari,Downloads,~/Library/Preferences/com.apple.knowledge-agent.plist,67584,0,62706c6973743030,0,0.01
+288,Safari,Downloads,~/Library/Preferences/com.apple.knowledge-agent.plist,67584,0,62706c6973743030,0,0.01
+289,Safari,Downloads,~/Desktop/.DS_Store,70656,0,0000000142756431,0,0.06
+290,Safari,Downloads,/private/var/db/diagnostics/Persist/0000000000000aa3.tracev3,98304,0,0010000011000000,0,0.0
+291,Safari,Downloads,~/Library/Containers/com.apple.iWork.Numbers/Data/tmp/TemporaryItems/NSIRD_Numbers_9NHsf5,164608,0,,0,0.01
+292,Safari,Downloads,~/Library/Mobile Documents/com~apple~Numbers/Documents/Predictions.numbers,4261888,0,504b030414000000,0,0.01
+293,Safari,Downloads,~/Library/Containers/com.apple.iWork.Numbers/Data/tmp/TemporaryItems/NSIRD_Numbers_o9IZ9x,164608,0,,0,0.01
+294,Safari,Downloads,~/Library/Containers/com.apple.iWork.Numbers/Data/Library/Application Support/DocumentSupport/88434853-A0D5-4FC8-BCFC-D69ABEA1A199.lJR9ax/Support.bundle/Index.zip,66048,0,504b030414000000,0,0.0
+295,Safari,Downloads,~/Library/Containers/com.apple.iWork.Numbers/Data/Library/Application Support/DocumentSupport/88434853-A0D5-4FC8-BCFC-D69ABEA1A199.lJR9ax/Support.bundle/Data,131584,0,,0,0.01
+296,Safari,Downloads,~/Library/Containers/com.apple.iWork.Numbers/Data/Library/Application Support/DocumentSupport/88434853-A0D5-4FC8-BCFC-D69ABEA1A199.lJR9ax/Support.bundle/Metadata/DocumentIdentifier,66048,0,3838343334383533,0,0.0
+297,Safari,Downloads,~/Library/Containers/com.apple.iWork.Numbers/Data/Library/Application Support/DocumentSupport/88434853-A0D5-4FC8-BCFC-D69ABEA1A199.lJR9ax/Support.bundle/Metadata/Properties.plist,66048,0,62706c6973743030,0,0.01
+298,Safari,Downloads,~/Library/Containers/com.apple.iWork.Numbers/Data/Library/Application Support/DocumentSupport/88434853-A0D5-4FC8-BCFC-D69ABEA1A199.lJR9ax/Support.bundle/Metadata,131584,0,,0,0.01
+299,Safari,Downloads,~/Library/Containers/com.apple.iWork.Numbers/Data/Library/Application Support/DocumentSupport/88434853-A0D5-4FC8-BCFC-D69ABEA1A199.lJR9ax/Support.bundle,131584,0,,0,0.01
+300,Safari,Downloads,~/Library/Containers/com.apple.iWork.Numbers/Data/Library/Application Support/DocumentSupport/88434853-A0D5-4FC8-BCFC-D69ABEA1A199.lJR9ax/Support.bundle,165888,0,,0,0.01
+301,Safari,Downloads,~/Library/Containers/com.apple.iWork.Numbers/Data/tmp/TemporaryItems/NSIRD_Numbers_qOP5EZ,164608,0,,0,0.01
+302,Safari,Downloads,~/Library/Saved Application State/justin.testing123.savedState/windows.plist,66560,0,62706c6973743030,0,0.02
+303,Safari,Downloads,~/Library/Mobile Documents/com~apple~Numbers/Documents/Predictions.numbers,100352,0,504b030414000000,0,0.01
+304,Safari,Downloads,~/Library/Application Support/CloudDocs/session/db/client.db-wal,66560,0,377f0682002de218,0,0.29
+305,Safari,Downloads,~/Library/Containers/com.apple.Safari/Data/Library/Safari/SafariTabs.db,66560,0,53514c6974652066,0,0.43
+306,Safari,Downloads,~/Library/Containers/com.apple.Safari/Data/Library/Safari/SafariTabs.db-wal,66560,0,,0,0.17
+307,Safari,Downloads,~/Library/Application Support/FileProvider/8B79D36C-30BC-485D-98E2-5FE82DE706EE/wharf/wharf/ingest/5294918,4259840,0,,0,0.0
+308,Safari,Downloads,~/Library/Application Support/FileProvider/8B79D36C-30BC-485D-98E2-5FE82DE706EE/wharf/wharf/ingest/5294918,4262144,0,,0,0.0
+309,Safari,Downloads,~/Library/Containers/com.apple.Safari/Data/Library/Preferences/com.apple.Safari.plist,98304,0,62706c6973743030,0,0.04
+310,Safari,Downloads,~/Library/Preferences/ContextStoreAgent.plist,98304,0,62706c6973743030,0,0.01
+311,Safari,Downloads,~/Library/Preferences/com.apple.knowledge-agent.plist,98304,0,62706c6973743030,0,0.06
+312,Safari,Downloads,~/Library/Application Support/FileProvider/8B79D36C-30BC-485D-98E2-5FE82DE706EE/wharf/wharf/ingest/5294928,98304,0,,0,0.02
+313,Safari,Downloads,~/Library/Application Support/FileProvider/8B79D36C-30BC-485D-98E2-5FE82DE706EE/wharf/wharf/propagate/doc,4259840,0,,0,0.0
+314,Safari,Downloads,~/Library/Application Support/FileProvider/8B79D36C-30BC-485D-98E2-5FE82DE706EE/wharf/wharf/propagate/doc,4262144,0,,0,0.0
+315,Safari,Downloads,~/Library/Application Support/FileProvider/8B79D36C-30BC-485D-98E2-5FE82DE706EE/wharf/wharf/propagate/5294929,108544,0,,0,0.01
+316,Safari,Downloads,~/Library/Application Support/CloudDocs/session/i/fb0.numbers,67584,0,504b030414000000,0,0.01
+317,Safari,Downloads,~/Library/Application Support/FileProvider/8B79D36C-30BC-485D-98E2-5FE82DE706EE/wharf/wharf/propagate/5294929,67584,0,,0,0.01
+318,Safari,Downloads,~/Library/Application Support/CloudDocs/session/i/fb0.numbers,67584,0,504b030414000000,0,0.01
+319,Safari,Downloads,~/Library/Caches/com.apple.bird/unlink/37749ED1-1477-4807-B6F4-7FB0CCA5914D,69120,0,,0,0.01
+320,Safari,Downloads,~/Library/Application Support/CloudDocs/session/t/upload-176-906D2EF4-EE83-4301-9BC6-27811B50FA0E,67584,0,ffd8ffe000104a46,0,0.01
+321,Safari,Downloads,/private/var/folders/_g/7_j4dkl16bdg133m_sn11t3c0000gn/T/com.apple.quicklook.ThumbnailsAgent/TemporaryItems/NSIRD_com.apple.quicklook.ThumbnailsAgent_TGhiRI,131840,0,,0,0.01
+322,Safari,Downloads,/private/var/folders/_g/7_j4dkl16bdg133m_sn11t3c0000gn/T/com.apple.quicklook.ThumbnailsAgent/TemporaryItems/NSIRD_com.apple.quicklook.ThumbnailsAgent_Bgtnwh,131840,0,,0,0.01
+323,Safari,Downloads,~/Library/Application Support/CloudDocs/session/db/client.db,66560,0,53514c6974652066,0,0.32
+324,Safari,Downloads,~/Library/Application Support/FileProvider/8B79D36C-30BC-485D-98E2-5FE82DE706EE/wharf/wharf/ingest/5294928,4311040,0,,0,0.01
+325,Safari,Downloads,~/Library/Application Support/FileProvider/8B79D36C-30BC-485D-98E2-5FE82DE706EE/wharf/wharf/delete/1898C2FC-1693-46EA-904F-5AEB2E5BD046,68096,0,,0,0.01
+326,Safari,Downloads,~/Library/Mobile Documents/com~apple~Numbers/Documents/Predictions.numbers,4292608,0,504b030414000000,0,0.01
+327,Safari,Downloads,~/Library/Application Support/FileProvider/8B79D36C-30BC-485D-98E2-5FE82DE706EE/database/db-wal,66560,0,377f0682002de218,0,0.29
+328,Safari,Downloads,~/Library/Application Support/FileProvider/8B79D36C-30BC-485D-98E2-5FE82DE706EE/database/db,66560,0,53514c6974652066,0,0.32
+329,Safari,Downloads,~/Library/Application Support/FileProvider/8B79D36C-30BC-485D-98E2-5FE82DE706EE/database/db,66560,0,53514c6974652066,0,0.32
+330,Safari,Downloads,~/Library/Containers/com.apple.Safari/Data/Library/Safari/SafariTabs.db-wal,70656,0,377f0682002de218,0,0.34
+331,Safari,Downloads,~/Library/Application Support/FileProvider/8B79D36C-30BC-485D-98E2-5FE82DE706EE/database/db-wal,66560,0,377f0682002de218,0,0.29
+332,Safari,Downloads,~/Library/Application Support/FileProvider/8B79D36C-30BC-485D-98E2-5FE82DE706EE/database/db,66560,0,53514c6974652066,0,0.32
+333,Safari,Downloads,/private/var/folders/_g/7_j4dkl16bdg133m_sn11t3c0000gn/T/TemporaryItems/com.apple.Safari.plist.Gv6Sr0p,88320,0,,0,0.0
+334,Safari,Downloads,~/Library/Containers/com.apple.Safari/Data/Library/Preferences/com.apple.Safari.plist,67584,0,62706c6973743030,0,0.0
+335,Safari,Downloads,~/Library/Containers/com.apple.Safari/Data/Library/Preferences/com.apple.Safari.plist,67584,0,62706c6973743030,0,0.0
+336,Safari,Downloads,/private/var/db/diagnostics/logd_helper.0.log,71680,0,323032352d30342d,0,0.016666666666666666
+337,Safari,Downloads,/private/var/db/diagnostics/logd_helper.1.log,67584,0,323032352d30342d,0,0.01
+338,Safari,Downloads,/private/var/db/diagnostics/logd_helper.1.log,67584,0,323032352d30342d,0,0.01
+339,Safari,Downloads,/private/var/db/diagnostics/logd_helper.0.log,82176,0,323032352d30342d,0,0.01
+340,Safari,Downloads,~/Library/Containers/com.apple.Safari/Data/Library/WebKit/WebsiteDataStore/af43559d-6afb-4875-b21c-cea16effee2c/Cookies/Cookies.binarycookies_tmp_876.dat,104704,0,,0,0.01
+341,Safari,Downloads,~/Library/Containers/com.apple.Safari/Data/Library/WebKit/WebsiteDataStore/af43559d-6afb-4875-b21c-cea16effee2c/Cookies/Cookies.binarycookies,67584,0,636f6f6b0000006e,0,0.01
+342,Safari,Downloads,~/Library/Containers/com.apple.Safari/Data/Library/WebKit/WebsiteDataStore/af43559d-6afb-4875-b21c-cea16effee2c/Cookies/Cookies.binarycookies,67584,0,636f6f6b0000006e,0,0.01
+343,Safari,Downloads,/private/var/folders/_g/7_j4dkl16bdg133m_sn11t3c0000gn/T/com.apple.parsecd/TemporaryItems/NSIRD_parsecd_5vLOYH,164608,0,,0,0.01
+344,Safari,Downloads,~/Library/Group Containers/group.com.apple.PegasusConfiguration/rawSessions/session.774.09859F9E-2F79-4F36-87EE-BF2D054B81DC.open,83968,0,0a30706172736563,0,0.01
+345,Safari,Downloads,~/Library/Biome/tmp/.tmp.RSojfmGY,68864,0,,0,0.0
+346,Safari,Downloads,~/Library/Biome/compute/sessions/5AB8C7D1-B690-4AC4-948C-E55ED36AC854/bookmarks/server/com.apple.corespotlightd/com.apple.corespotlightd.BiomeConsumer.SSAppInFocus,67584,0,62706c6973743030,0,0.01
+347,Safari,Downloads,~/Library/Biome/tmp/.tmp.UXlBoyps,68864,0,,0,0.0
+348,Safari,Downloads,~/Library/Biome/compute/sessions/5AB8C7D1-B690-4AC4-948C-E55ED36AC854/bookmarks/server/com.apple.proactived/FocusModes.WorkMode,67584,0,62706c6973743030,0,0.0
+349,Safari,Downloads,~/Library/Biome/tmp/.tmp.mALD4Kye8z,4259840,0,,0,0.0
+350,Safari,Downloads,~/Library/Biome/tmp/.tmp.mALD4Kye8z,4262144,0,,0,0.0
+351,Safari,Downloads,~/Library/Biome/compute/sessions/5AB8C7D1-B690-4AC4-948C-E55ED36AC854/bookmarks/client/com.apple.corespotlightd/com.apple.corespotlightd.BiomeConsumer.SSAppInFocus,67584,0,62706c6973743030,0,0.0
+352,Safari,Downloads,~/Library/Biome/compute/sessions/5AB8C7D1-B690-4AC4-948C-E55ED36AC854/bookmarks/client/com.apple.corespotlightd/com.apple.corespotlightd.BiomeConsumer.SSAppInFocus,67584,0,62706c6973743030,0,0.0
+353,Safari,Downloads,~/Library/Biome/tmp/.tmp.DBmf4wgW,4265728,0,,0,0.0
+354,Safari,Downloads,~/Library/Biome/tmp/.tmp.FGtqNkIH,68864,0,,0,0.0
+355,Safari,Downloads,~/Library/Biome/compute/sessions/5AB8C7D1-B690-4AC4-948C-E55ED36AC854/bookmarks/server/com.apple.proactived/FocusModes.GamingMode,67584,0,62706c6973743030,0,0.01
+356,Safari,Downloads,~/Library/Biome/tmp/.tmp.phUiyVsQIC,4259840,0,,0,0.0
+357,Safari,Downloads,~/Library/Biome/tmp/.tmp.phUiyVsQIC,4262144,0,,0,0.0
+358,Safari,Downloads,~/Library/Biome/compute/sessions/5AB8C7D1-B690-4AC4-948C-E55ED36AC854/bookmarks/client/com.apple.proactived/FocusModes.WorkMode,67584,0,62706c6973743030,0,0.0
+359,Safari,Downloads,~/Library/Biome/compute/sessions/5AB8C7D1-B690-4AC4-948C-E55ED36AC854/bookmarks/client/com.apple.proactived/FocusModes.WorkMode,67584,0,62706c6973743030,0,0.0
+360,Safari,Downloads,~/Library/Biome/tmp/.tmp.uUOKKyuf,4265728,0,,0,0.0
+361,Safari,Downloads,~/Library/DuetExpertCenter/_ATXDataStore.db,66560,0,53514c6974652066,0,0.32
+362,Safari,Downloads,~/Library/Biome/tmp/.tmp.UoSE3Hu7,68864,0,,0,0.0
+363,Safari,Downloads,~/Library/Biome/compute/sessions/5AB8C7D1-B690-4AC4-948C-E55ED36AC854/bookmarks/server/com.apple.proactived/FocusModes.ReadingMode,67584,0,62706c6973743030,0,0.01
+364,Safari,Downloads,~/Library/Biome/tmp/.tmp.7PAsd5LYJe,4259840,0,,0,0.0
+365,Safari,Downloads,~/Library/DuetExpertCenter/_ATXDataStore.db-wal,66560,0,377f0682002de218,0,0.29
+366,Safari,Downloads,~/Library/Biome/tmp/.tmp.7PAsd5LYJe,4262144,0,,0,0.0
+367,Safari,Downloads,~/Library/Biome/compute/sessions/5AB8C7D1-B690-4AC4-948C-E55ED36AC854/bookmarks/client/com.apple.proactived/FocusModes.GamingMode,67584,0,62706c6973743030,0,0.0
+368,Safari,Downloads,~/Library/Biome/compute/sessions/5AB8C7D1-B690-4AC4-948C-E55ED36AC854/bookmarks/client/com.apple.proactived/FocusModes.GamingMode,67584,0,62706c6973743030,0,0.0
+369,Safari,Downloads,~/Library/Biome/tmp/.tmp.hj3CqvEP,4265728,0,,0,0.0
+370,Safari,Downloads,~/Library/Biome/tmp/.tmp.FTyKgfFB,68864,0,,0,0.0
+371,Safari,Downloads,~/Library/Biome/compute/sessions/5AB8C7D1-B690-4AC4-948C-E55ED36AC854/bookmarks/server/com.apple.corespotlightd/com.apple.corespotlightd.BiomeConsumer.SSAppInFocus,71680,0,62706c6973743030,0,0.0
+372,Safari,Downloads,~/Library/Biome/compute/sessions/5AB8C7D1-B690-4AC4-948C-E55ED36AC854/bookmarks/server/com.apple.corespotlightd/com.apple.corespotlightd.BiomeConsumer.SSAppInFocus,71680,0,62706c6973743030,0,0.0
+373,Safari,Downloads,~/Library/Biome/tmp/.tmp.n0rRzMrMoL,4259840,0,,0,0.0
+374,Safari,Downloads,~/Library/Biome/tmp/.tmp.n0rRzMrMoL,4262144,0,,0,0.0
+375,Safari,Downloads,~/Library/Biome/compute/sessions/5AB8C7D1-B690-4AC4-948C-E55ED36AC854/bookmarks/client/com.apple.proactived/FocusModes.ReadingMode,67584,0,62706c6973743030,0,0.0
+376,Safari,Downloads,~/Library/Biome/compute/sessions/5AB8C7D1-B690-4AC4-948C-E55ED36AC854/bookmarks/client/com.apple.proactived/FocusModes.ReadingMode,67584,0,62706c6973743030,0,0.0
+377,Safari,Downloads,~/Library/Biome/tmp/.tmp.Z4x4iayI,4265728,0,,0,0.0
+378,Safari,Downloads,~/Library/Biome/tmp/.tmp.Y2FghwdU,68864,0,,0,0.0
+379,Safari,Downloads,~/Library/Biome/compute/sessions/5AB8C7D1-B690-4AC4-948C-E55ED36AC854/bookmarks/server/com.apple.proactived/FocusModes.WorkMode,71680,0,62706c6973743030,0,0.0
+380,Safari,Downloads,~/Library/Biome/compute/sessions/5AB8C7D1-B690-4AC4-948C-E55ED36AC854/bookmarks/server/com.apple.proactived/FocusModes.WorkMode,71680,0,62706c6973743030,0,0.0
+381,Safari,Downloads,~/Library/Biome/tmp/.tmp.Avhp6t20,68864,0,,0,0.0
+382,Safari,Downloads,~/Library/Biome/compute/sessions/5AB8C7D1-B690-4AC4-948C-E55ED36AC854/bookmarks/server/com.apple.proactived/FocusModes.GamingMode,71680,0,62706c6973743030,0,0.0
+383,Safari,Downloads,~/Library/Biome/compute/sessions/5AB8C7D1-B690-4AC4-948C-E55ED36AC854/bookmarks/server/com.apple.proactived/FocusModes.GamingMode,71680,0,62706c6973743030,0,0.0
+384,Safari,Downloads,~/Library/Biome/tmp/.tmp.mzZYbYvl,68864,0,,0,0.0
+385,Safari,Downloads,~/Library/Biome/compute/sessions/5AB8C7D1-B690-4AC4-948C-E55ED36AC854/bookmarks/server/com.apple.proactived/FocusModes.ReadingMode,71680,0,62706c6973743030,0,0.0
+386,Safari,Downloads,~/Library/Biome/compute/sessions/5AB8C7D1-B690-4AC4-948C-E55ED36AC854/bookmarks/server/com.apple.proactived/FocusModes.ReadingMode,71680,0,62706c6973743030,0,0.0
+387,Safari,Downloads,~/Library/Containers/com.apple.Safari/Data/Library/Saved Application State/com.apple.Safari.savedState/windows.plist,66560,0,62706c6973743030,0,0.01
+388,Safari,Downloads,~/Library/Safari/Downloads.plist,67584,1,62706c6973743030,0,0.01
+389,Safari,Downloads,~/Library/Containers/com.apple.Safari/Data/tmp/TemporaryItems/NSIRD_Safari_dXgECu,164608,0,,0,0.01
+390,Safari,Downloads,~/Library/Safari/Downloads.plist,88064,1,62706c6973743030,0,0.1
